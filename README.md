@@ -1,3 +1,7 @@
+<p align="center">  
+  <img src="image.png" width="300">  
+</p>
+
 # 🔐 ChiffreSecret
 
 ChiffreSecret est né d’un souvenir d’enfance.
